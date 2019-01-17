@@ -1,2 +1,2 @@
 # Hangman
-Hangman MacOS command line tool written in Objective-C.
+Hangman game MacOS command line tool written in Objective-C.
